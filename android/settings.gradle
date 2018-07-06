@@ -1,0 +1,3 @@
+rootProject.name = 'ChxyApp'
+
+include ':app'
